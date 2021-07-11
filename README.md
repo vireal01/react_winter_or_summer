@@ -6,9 +6,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # About the App
 
 the app shows differend design in wonter and summer.
+
 The winter/summer detection based on the user location and on the current month. 
+
 Summer design: https://prnt.sc/1a84qga 
+
 Winter design: https://prnt.sc/1a853zl 
+
 Loader design (semantic-ui), when user doesn't decide allow to browser to use the geolocation or not: https://prnt.sc/1a85i6u 
 
 ## Available Scripts
