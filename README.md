@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # About the App
 
-the app shows differend design in wonter and summer.
+The app shows differend design depends on there is winter or summer.
 
 The winter/summer detection based on the user location and on the current month. 
 
